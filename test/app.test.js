@@ -12,4 +12,4 @@ describe("Math tests", function () {
     assert.equal(result, 8);
   });
 
-});
+}); 
