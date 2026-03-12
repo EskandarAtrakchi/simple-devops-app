@@ -4,7 +4,7 @@ sudo npm install -g pm2
 #Stop current application running
 pm2 stop simpleapp
 #Change directory into folder of the application
-cd SimpleApplication_CA/
+cd simple-devops-app/
 #Install dependencies
 npm install
 #Start the application
